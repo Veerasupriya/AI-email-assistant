@@ -1,0 +1,121 @@
+id,sender,subject,body,sent_date,received_at,clean_text,intent,urgency,sentiment,__received_at,priority_level,draft_response,sla_breach,extracted,phones,alt_emails,__dt
+1,eve@startup.io,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",19-08-2025 00:58,2025-09-04T07:11:11.197356,"Help required with account verification Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",General Query,0,0.0,2025-09-04 07:11:11.197356,P4 - Low,"Hello eve@startup.io,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-04 07:11:11.197356
+2,diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",25-08-2025 00:58,2025-09-04T04:11:11.197356,"General query about subscription Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Technical Issue,0,-0.22499999999999998,2025-09-04 04:11:11.197356,P2 - High,"Hello diana@client.co,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-04 04:11:11.197356
+3,eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",20-08-2025 12:58,2025-09-04T01:11:11.197356,"Immediate support needed for billing error Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",Technical Issue,0,0.45,2025-09-04 01:11:11.197356,P4 - Low,"Hello eve@startup.io,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-04 01:11:11.197356
+4,alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",21-08-2025 21:58,2025-09-03T22:11:11.197356,"Urgent request: system access blocked Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Technical Issue,5,-0.5,2025-09-03 22:11:11.197356,P1 - Critical,"Hello alice@example.com,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-03 22:11:11.197356
+5,eve@startup.io,Question: integration with API,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",20-08-2025 04:58,2025-09-03T19:11:11.197356,"Question: integration with API Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",General Query,0,0.0,2025-09-03 19:11:11.197356,P4 - Low,"Hello eve@startup.io,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-03 19:11:11.197356
+6,alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",18-08-2025 08:58,2025-09-03T16:11:11.197356,"Critical help needed for downtime Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Technical Issue,5,-0.25,2025-09-03 16:11:11.197356,P1 - Critical,"Hello alice@example.com,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-03 16:11:11.197356
+7,diana@client.co,Help required with account verification,There is a billing error where I was charged twice. This needs immediate correction.,20-08-2025 19:58,2025-09-03T13:11:11.197356,Help required with account verification There is a billing error where I was charged twice. This needs immediate correction.,Technical Issue,0,0.0,2025-09-03 13:11:11.197356,P4 - Low,"Hello diana@client.co,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-03 13:11:11.197356
+8,diana@client.co,Support needed for login issue,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,23-08-2025 06:58,2025-09-03T10:11:11.197356,Support needed for login issue I am facing issues with verifying my account. The verification email never arrived. Can you assist?,Technical Issue,0,0.0,2025-09-03 10:11:11.197356,P4 - Low,"Hello diana@client.co,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-03 10:11:11.197356
+9,alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",26-08-2025 02:58,2025-09-03T07:11:11.197356,"General query about subscription Our servers are down, and we need immediate support. This is highly critical.",Pricing Inquiry,5,-0.03518518518518519,2025-09-03 07:11:11.197356,P1 - Critical,"Hello alice@example.com,
+
+Thank you for your interest. Our sales team will share the pricing details with you shortly.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-03 07:11:11.197356
+10,alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",21-08-2025 13:58,2025-09-03T04:11:11.197356,"Help required with account verification Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",General Query,0,0.0,2025-09-03 04:11:11.197356,P4 - Low,"Hello alice@example.com,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-03 04:11:11.197356
+11,diana@client.co,Support needed for login issue,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",26-08-2025 15:58,2025-09-03T01:11:11.197356,"Support needed for login issue Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Technical Issue,0,-0.5,2025-09-03 01:11:11.197356,P2 - High,"Hello diana@client.co,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-03 01:11:11.197356
+12,alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",24-08-2025 05:58,2025-09-02T22:11:11.197356,"Help required with account verification Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",General Query,0,0.0,2025-09-02 22:11:11.197356,P4 - Low,"Hello alice@example.com,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-02 22:11:11.197356
+13,eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",21-08-2025 19:58,2025-09-02T19:11:11.197356,"Critical help needed for downtime Our servers are down, and we need immediate support. This is highly critical.",General Query,5,-0.051851851851851864,2025-09-02 19:11:11.197356,P1 - Critical,"Hello eve@startup.io,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-02 19:11:11.197356
+14,alice@example.com,Query about product pricing,There is a billing error where I was charged twice. This needs immediate correction.,24-08-2025 13:58,2025-09-02T16:11:11.197356,Query about product pricing There is a billing error where I was charged twice. This needs immediate correction.,Technical Issue,0,0.0,2025-09-02 16:11:11.197356,P4 - Low,"Hello alice@example.com,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-02 16:11:11.197356
+15,alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,26-08-2025 01:58,2025-09-02T13:11:11.197356,General query about subscription I am facing issues with verifying my account. The verification email never arrived. Can you assist?,Technical Issue,0,0.05000000000000002,2025-09-02 13:11:11.197356,P4 - Low,"Hello alice@example.com,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-02 13:11:11.197356
+16,alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",19-08-2025 07:58,2025-09-02T10:11:11.197356,"Immediate support needed for billing error Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",Technical Issue,0,0.0,2025-09-02 10:11:11.197356,P4 - Low,"Hello alice@example.com,
+
+Thank you for reporting the issue. Our technical team is investigating and we will update you soon.
+
+Best regards,
+Support Team",False,"{'phones': [], 'emails': []}",[],[],2025-09-02 10:11:11.197356
+17,charlie@partner.org,Help required with account verification,"This is urgent – our system is completely inaccessible, and this is affecting our operations.",18-08-2025 00:58,2025-09-02T07:11:11.197356,"Help required with account verification This is urgent – our system is completely inaccessible, and this is affecting our operations.",General Query,5,0.1,2025-09-02 07:11:11.197356,P1 - Critical,"Hello charlie@partner.org,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-02 07:11:11.197356
+18,diana@client.co,Request for refund process clarification,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,22-08-2025 17:58,2025-09-02T04:11:11.197356,Request for refund process clarification Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,Refund Request,0,0.0,2025-09-02 04:11:11.197356,P4 - Low,"Hello diana@client.co,
+
+We have received your refund request. Our support team will review it and update you shortly.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-02 04:11:11.197356
+19,eve@startup.io,Query about product pricing,"Our servers are down, and we need immediate support. This is highly critical.",22-08-2025 09:58,2025-09-02T01:11:11.197356,"Query about product pricing Our servers are down, and we need immediate support. This is highly critical.",General Query,5,-0.07777777777777779,2025-09-02 01:11:11.197356,P1 - Critical,"Hello eve@startup.io,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-02 01:11:11.197356
+20,bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",19-08-2025 13:58,2025-09-01T22:11:11.197356,"Urgent request: system access blocked Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",General Query,5,0.0,2025-09-01 22:11:11.197356,P1 - Critical,"Hello bob@customer.com,
+
+Thank you for reaching out. Our support team will get back to you with the requested information.
+
+Best regards,
+Support Team",True,"{'phones': [], 'emails': []}",[],[],2025-09-01 22:11:11.197356
